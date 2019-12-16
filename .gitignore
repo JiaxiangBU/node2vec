@@ -13,3 +13,4 @@ build
 .settings
 .idea
 .Rproj.user
+.Rhistory
